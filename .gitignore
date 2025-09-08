@@ -1,0 +1,5 @@
+.venv
+.env
+elastic.env
+misc
+__pycache__
